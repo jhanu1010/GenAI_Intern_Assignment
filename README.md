@@ -1,7 +1,7 @@
 # GenAI_Intern_Assignment
-  Build an AI Agent to Answer E-commerce Data Questions
+  Building an AI Agent to Answer E-commerce Data Questions
 ## Objective
-Your task is to build an AI agent that can:
+Our task is to build an AI agent that can:
 Answer any question related to the data provided.
 
 
